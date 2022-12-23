@@ -39,3 +39,19 @@ BugsMirror Task 1
     <td><img src="Output/Cut Paste.png" width=250 height=250></td>
   </tr>
  </table>
+
+
+![](https://i.imgur.com/waxVImv.png)
+
+## Problem Statement & Code Snippet
+
+<table>
+  <tr>
+    <td>Problem Statement</td>
+    <td>Code Snippet</td>
+  </tr>
+  <tr>
+    <td><img src="Output/Page 2.jpg" width=540 height=620></td>
+    <td><img src="Output/CodeSnap.png" width=540 height=620></td>
+  </tr>
+ </table>
