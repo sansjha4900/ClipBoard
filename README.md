@@ -50,7 +50,7 @@ BugsMirror Task 1
     <td>Code Snippet</td>
   </tr>
   <tr>
-    <td><img src="Output/CodeSnap.png" width=270 height=270></td>
-    <td><img src="Output/Page 2.jpg" width=270 height=270></td>
+    <td><img src="Output/CodeSnap.png" width=480 height=540></td>
+    <td><img src="Output/Page 2.jpg" width=480 height=540></td>
   </tr>
  </table>
