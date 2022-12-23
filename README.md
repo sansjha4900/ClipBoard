@@ -18,7 +18,7 @@ BugsMirror Task 1
 
 <div>
   <a href="Output/Type.png">
-    <img align="left" width="360px" src="Output/Type.png">
+    <img align="left" width="240px" src="Output/Type.png">
   </a>
 </div>
 
