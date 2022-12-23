@@ -20,29 +20,22 @@ BugsMirror Task 1
   <tr>
     <td>Type name</td>
     <td>Select All</td>
+    <td>Select Cut</td>
   </tr>
   <tr>
-    <td><img src="Output/Type.png" width=270 height=270></td>
-    <td><img src="Output/Select All.png" width=270 height=270></td>
+    <td><img src="Output/Type.png" width=240 height=240></td>
+    <td><img src="Output/Select All.png" width=240 height=240></td>
+    <td><img src="Output/Copy Paste.png" width=240 height=240></td>
   </tr>
  </table>
 
 <table>
   <tr>
     <td>Copy Paste</td>
-    <td>Select Cut</td>
-  </tr>
-  <tr>
-    <td><img src="Output/Copy Paste.png" width=270 height=270></td>
-    <td><img src="Output/Cut.png" width=270 height=270></td>
-  </tr>
- </table>
-
-<table>
-  <tr>
     <td>Cut Paste</td>
   </tr>
   <tr>
-    <td><img align="center" src="Output/Cut Paste.png" width=270 height=270></td>
+    <td><img src="Output/Cut.png" width=240 height=240></td>
+    <td><img align="center" src="Output/Cut Paste.png" width=240 height=240></td>
   </tr>
  </table>
