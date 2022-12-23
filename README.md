@@ -18,12 +18,12 @@ BugsMirror Task 1
 
 <div>
   <a href="Output/Type.png">
-    <img src="Output/Type.png">
+    <img align="left" width="480px" src="Output/Type.png">
   </a>
 </div>
 
 <div>
   <a href="Output/Select All.png">
-    <img src="Output/Select All.png">
+    <img align="right" width="480px" src="Output/Select All.png">
   </a>
 </div>
