@@ -48,4 +48,7 @@ BugsMirror Task 1
   <a href="Output/CodeSnap.png">
     <img src="Output/CodeSnap.png">
   </a>
+  <a href="Output/Page 2.jpg">
+    <img src="Output/Page 2.jpg">
+  </a>
 </div>
