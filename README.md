@@ -42,13 +42,15 @@ BugsMirror Task 1
 
 ![](https://i.imgur.com/waxVImv.png)
 
-## Code Snippet
+## Problem & Code
 
-<div>
-  <a href="Output/CodeSnap.png">
-    <img src="Output/CodeSnap.png">
-  </a>
-  <a href="Output/Page 2.jpg">
-    <img src="Output/Page 2.jpg">
-  </a>
-</div>
+<table>
+  <tr>
+    <td>Problem Statement</td>
+    <td>Code Snippet</td>
+  </tr>
+  <tr>
+    <td><img src="Output/CodeSnap.png" width=270 height=270></td>
+    <td><img src="Output/Page 2.jpg" width=270 height=270></td>
+  </tr>
+ </table>
