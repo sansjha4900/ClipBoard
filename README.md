@@ -18,6 +18,6 @@ BugsMirror Task 1
 
 <div>
   <a href="https://github.com/sansjha4900/web-for-azure/blob/c103e408200570e8492d6d2597f878310aa4d081/Screenshot%20(337).png">
-    <img align="center" width="480px src="https://github.com/sansjha4900/web-for-azure/blob/c103e408200570e8492d6d2597f878310aa4d081/Screenshot%20(337).png">
+    <img align="center" width="480px" src="https://github.com/sansjha4900/web-for-azure/blob/c103e408200570e8492d6d2597f878310aa4d081/Screenshot%20(337).png">
   </a>
 </div>
