@@ -36,12 +36,12 @@ BugsMirror Task 1
 
 <div>
   <a href="Output/Select All.png">
-    <img align="left" width="240px" src="Output/Cut.png">
+    <img align="left" height="5px" width="240px" src="Output/Cut.png">
   </a>
 </div>
 
 <div>
   <a href="Output/Select All.png">
-    <img align="left" width="240px" src="Output/Cut Paste.png">
+    <img align="left" height="5px" width="240px" src="Output/Cut Paste.png">
   </a>
 </div>
