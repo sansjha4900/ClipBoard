@@ -22,8 +22,8 @@ BugsMirror Task 1
     <td>Select All</td>
   </tr>
   <tr>
-    <td><img src="Output/Type.png" width=360 height=360></td>
-    <td><img src="Output/Select All.png" width=360 height=360></td>
+    <td><img src="Output/Type.png" width=270 height=270></td>
+    <td><img src="Output/Select All.png" width=270 height=270></td>
   </tr>
  </table>
 
@@ -33,8 +33,8 @@ BugsMirror Task 1
     <td>Select Cut</td>
   </tr>
   <tr>
-    <td><img src="Output/Copy Paste.png" width=360 height=360></td>
-    <td><img src="Output/Cut.png" width=360 height=360></td>
+    <td><img src="Output/Copy Paste.png" width=270 height=270></td>
+    <td><img src="Output/Cut.png" width=270 height=270></td>
   </tr>
  </table>
 
@@ -43,6 +43,6 @@ BugsMirror Task 1
     <td>Cut Paste</td>
   </tr>
   <tr>
-    <td><img align="center" src="Output/Cut Paste.png" width=360 height=360></td>
+    <td><img align="center" src="Output/Cut Paste.png" width=270 height=270></td>
   </tr>
  </table>
