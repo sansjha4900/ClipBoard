@@ -1,4 +1,10 @@
+<a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-purple.svg?labelColor=303030" /></a>
+<br />
+
+![](https://i.imgur.com/waxVImv.png)
+
 ## ClipBoard
+
 BugsMirror Task 1
 
 * As a part of campus placement, recently an Indore based start-up BugsMirror initiated the hiring process.
