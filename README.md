@@ -16,32 +16,19 @@ BugsMirror Task 1
 
 ## Output of the project
 
-<div>
-  <a href="Output/Type.png">
-    <img align="left" width="240px" src="Output/Type.png">
-  </a>
-</div>
-
-<div>
-  <a href="Output/Select All.png">
-    <img align="left" width="240px" src="Output/Select All.png">
-  </a>
-</div>
-
-<div>
-  <a href="Output/Select All.png">
-    <img align="left" width="240px" src="Output/Copy Paste.png">
-  </a>
-</div>
-
-<div>
-  <a href="Output/Select All.png">
-    <img align="left" height="5px" width="240px" src="Output/Cut.png">
-  </a>
-</div>
-
-<div>
-  <a href="Output/Select All.png">
-    <img align="left" height="5px" width="240px" src="Output/Cut Paste.png">
-  </a>
-</div>
+<table>
+  <tr>
+    <td>Type name</td>
+     <td>Select All</td>
+     <td>Copy Paste</td>
+     <td>Select Cut</td>
+     <td>Cut Paste</td>
+  </tr>
+  <tr>
+    <td><img src="Output/Type.png" width=270 height=480></td>
+    <td><img src="Output/Select All.png" width=270 height=480></td>
+    <td><img src="Output/Copy Paste.png" width=270 height=480></td>
+    <td><img src="Output/Cut.png" width=270 height=480></td>
+    <td><img src="Output/Cut Paste.png" width=270 height=480></td>
+  </tr>
+ </table>
